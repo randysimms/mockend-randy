@@ -1,6 +1,6 @@
 {
   "Fruit": {
-    "name": "string" 
+    "name": "string",
     "weight": "int", 
     "description": "string", 
     "image_name": "string"
